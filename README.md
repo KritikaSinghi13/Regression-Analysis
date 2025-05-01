@@ -1,9 +1,5 @@
 # Linear Regression Analysis Project
 
-(DATA SCIENCE AND BUSINESS ANALYTICS)
-
-TASK-1
-
 PREDICTION USING SUPERVISED ML
 
 OBJECTIVE: Predicted score if a student studies for 9.25 hours/day.
